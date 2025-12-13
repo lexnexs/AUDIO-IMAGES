@@ -1,5 +1,12 @@
 {
     "bannedPlayers": [],
-    "bannedPlayerIDs": [],
-    "BannedUsers": []
+    "bannedPlayerIDs": [
+        "001"
+    ],
+    "BannedUsers": [
+        {
+            "ID": "001",
+            "Name": "Unknown"
+        }
+    ]
 }
