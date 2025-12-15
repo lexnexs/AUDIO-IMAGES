@@ -1,0 +1,11 @@
+{
+    "Reports": [
+        {
+            "ID": "000",
+            "Name": "Buz1ex",
+            "Reason": "Читы",
+            "Status": "NotReady",
+            "Messages": []
+        }
+    ]
+}
