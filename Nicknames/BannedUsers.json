@@ -1,12 +1,5 @@
 {
     "bannedPlayers": [],
-    "bannedPlayerIDs": [
-        "9mmzIv8xRc2UcfjgZBjxchPzFFX9JcwXSwsBnDdAy60="
-    ],
-    "BannedUsers": [
-        {
-            "ID": "9mmzIv8xRc2UcfjgZBjxchPzFFX9JcwXSwsBnDdAy60=",
-            "Name": "9mmzIv8xRc2UcfjgZBjxchPzFFX9JcwXSwsBnDdAy60="
-        }
-    ]
+    "bannedPlayerIDs": [],
+    "BannedUsers": []
 }
