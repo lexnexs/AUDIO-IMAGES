@@ -1,11 +1,16 @@
 {
     "bannedPlayers": [],
     "bannedPlayerIDs": [
-        "FX3050$12FS"
+        "FX3050$12FS",
+        "LTMrUHjRA/R4BcxTa89HRlItrwzAmH5oGA1a/WMcHU4="
     ],
     "BannedUsers": [
         {
             "ID": "FX3050$12FS",
+            "Name": "Unknown"
+        },
+        {
+            "ID": "LTMrUHjRA/R4BcxTa89HRlItrwzAmH5oGA1a/WMcHU4=",
             "Name": "Unknown"
         }
     ]
