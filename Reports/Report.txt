@@ -23,7 +23,7 @@
             "ID": "LTMrUHjRA/R4BcxTa89HRlItrwzAmH5oGA1a/WMcHU4=",
             "Name": "Алексей Мельников",
             "Reason": "Оскорбление",
-            "Status": "NotReady",
+            "Status": "Banned",
             "Messages": [
                 "Алексей Мельников (LTMrUHjRA/R4BcxTa89HRlItrwzAmH5oGA1a/WMcHU4=) : pidar"
             ]
