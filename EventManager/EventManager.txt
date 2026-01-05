@@ -1,5 +1,6 @@
 Events
 {
+8 : 05.01.2026 08:10
 0 : Off
 1 : Off
 2 : Off
@@ -8,7 +9,6 @@ Events
 5 : Off
 6 : Off
 7 : Off
-8 : Off
 9 : Off
 10 : Off
 11 : Off
