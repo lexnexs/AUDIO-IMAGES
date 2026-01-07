@@ -6,7 +6,7 @@ Events
 3 : 08.01.2026 01:57:17
 4 : Off
 5 : Off
-6 : Off
+6 : 08.01.2026 02:01:29
 11 : Off
 }
 LuckyEvents
