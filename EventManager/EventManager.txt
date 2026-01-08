@@ -11,7 +11,7 @@ Events
 }
 LuckyEvents
 {
-7 Off
+7 08.01.2026 04:20:45
 8 Off
 9 Off
 10 Off
