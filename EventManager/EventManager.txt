@@ -1,7 +1,7 @@
 Events
 {
 0 : Off
-1 : 09.01.2026 15:21:04
+1 : Off
 2 : Off
 3 : Off
 4 : Off
